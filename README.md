@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durga258" alt="durga258" /></a> </p>
 
+- 🔭 I’m currently working on **HTML Email Template Development**
+
+- 🌱 I’m currently learning **Node Js**
+
 - 💬 Ask me about **React Js, React Native, Java script**
 
 - 📫 How to reach me **durgaprasad14523@gmail.com**
