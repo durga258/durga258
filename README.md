@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durga258" alt="durga258" /></a> </p>
 
+- 💬 Ask me about **React Js, React Native, Java script**
+
+- 📫 How to reach me **durgaprasad14523@gmail.com**
+
+- ⚡ Fun fact **The first video uploaded to YouTube was titled 'Me at the zoo.'**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
